@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images Example</title>
+</head>
+<body>
+    <h1>Gallery of 5 Images</h1>
+
+    <!-- First Image -->
+    <div>
+        <img src="image1.jpg" alt="Image 1" width="300">
+    </div>
+
+    <!-- Second Image -->
+    <div>
+        <img src="image2.jpg" alt="Image 2" width="300">
+    </div>
+
+    <!-- Third Image -->
+    <div>
+        <img src="image3.jpg" alt="Image 3" width="300">
+    </div>
+
+    <!-- Fourth Image -->
+    <div>
+        <img src="image4.jpg" alt="Image 4" width="300">
+    </div>
+
+    <!-- Fifth Image -->
+    <div>
+        <img src="image5.jpg" alt="Image 5" width="300">
+    </div>
+
+</body>
+</html>
